@@ -1,4 +1,2 @@
 Hello world
 updating from feature branch
-
-Checking pull request
